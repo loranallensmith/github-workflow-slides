@@ -35,23 +35,23 @@
 
 # GitHub
 
-![version-control](/images/version-control.png)
+![version-control](images/version-control.png)
 
-![snapshots](/images/snapshots.png)
+![snapshots](images/snapshots.png)
 
-![snapshot-ids](/images/snapshot-ids.png)
+![snapshot-ids](images/snapshot-ids.png)
 
-![snapshots](/images/snapshots.png)
+![snapshots](images/snapshots.png)
 
-![snapshots-ordered](/images/snapshots-ordered.png)
+![snapshots-ordered](images/snapshots-ordered.png)
 
-![distributed-repositories](/images/distributed-repositories.png)
+![distributed-repositories](images/distributed-repositories.png)
 
-![clearinghouse](/images/clearinghouse.png)
+![clearinghouse](images/clearinghouse.png)
 
-![push-to-github](/images/push-to-github.png)
+![push-to-github](images/push-to-github.png)
 
-![pull-from-github](/images/pull-from-github.png)
+![pull-from-github](images/pull-from-github.png)
 
 # GitHub
 - Version control
@@ -62,7 +62,7 @@
 - Comprehensive record of decision-making process leading to changes <!-- .element: class="fragment" data-fragment-index="6" -->
 Note: That record is important because version control is...
 
-![version-control](/images/version-control.png)
+![version-control](images/version-control.png)
 
 ## Open Source Principles
 - Facilitate collaboration that is highly coordinated or even not at all <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -71,13 +71,13 @@ Note: That record is important because version control is...
 # Common Workflows
 - The GitHub Flow - Simple and consistent <!-- .element: class="fragment" data-fragment-index="1" -->
 
-![github-flow](/images/github-flow.png)
+![github-flow](images/github-flow.png)
 
 # Common Workflows
 - The GitHub Flow - Simple and consistent
 - The Git Flow - Flexibility <!-- .element: class="fragment" data-fragment-index="2" -->
 
-![git-flow](/images/git-flow.png)
+![git-flow](images/git-flow.png)
 
 # What this works well for
 
@@ -93,7 +93,7 @@ Note:
 
 ## Building software
 
-![building-software](/images/electron-pull-request.png)
+![building-software](images/electron-pull-request.png)
 
 ## Government
 Note:
@@ -103,25 +103,25 @@ Note:
 - District mapping via GeoJSON
 
 ### government.github.com
-![github-for-government](/images/github-for-government.png)
+![github-for-government](images/github-for-government.png)
 
 ## Compliance / Legal
 Note:
 - Operations manuals
 - Contracts
 
-![legal-docs](/images/legal-docs.png)
+![legal-docs](images/legal-docs.png)
 
 ## Open source book publishing
 Note:
 - Recipes
 - Textbooks
 
-![open-source-books](/images/pro-git-site.png)
+![open-source-books](images/pro-git-site.png)
 
-![open-source-books](/images/pro-git-repo.png)
+![open-source-books](images/pro-git-repo.png)
 
-![open-source-books](/images/advanced-r.png)
+![open-source-books](images/advanced-r.png)
 
 ## Education
 Note:
@@ -130,15 +130,15 @@ Note:
 - Standardized process for critique and improvement
 - This talk is open-sourced on GitHub
 
-![github-classroom](/images/github-classroom.png)
+![github-classroom](images/github-classroom.png)
 
-![workflow-slides-repo](/images/workflow-slides-repo.png)
+![workflow-slides-repo](images/workflow-slides-repo.png)
 
 ## Collaborative musical composition
 
-![abc-notation](/images/abc-notation.png)
+![abc-notation](images/abc-notation.png)
 
-![lily-pond](/images/lily-pond.png)
+![lily-pond](images/lily-pond.png)
 
 # What it's
 ## _not_
@@ -159,7 +159,7 @@ often binary; difficult to compare and merge; per-user uniqueness
 Note:
 XML project files in Adobe Premiere for instance
 
-![adobe-premiere-project](/images/adobe-premiere-xml.png)
+![adobe-premiere-project](images/adobe-premiere-xml.png)
 
 ## Creative work
 Note: auteurism vs collaborative effort
@@ -170,9 +170,9 @@ Note: auteurism vs collaborative effort
 
 # Access management
 
-![explicit-write-access](/images/explicit-write-access.png)
+![explicit-write-access](images/explicit-write-access.png)
 
-![protected-branches](/images/protected-branches.png)
+![protected-branches](images/protected-branches.png)
 
 # Chaos Management
 ## (and prevention)
@@ -181,7 +181,7 @@ Note: auteurism vs collaborative effort
 ### vs.
 # Alignment
 
-![autonomy-vs-alignment](/images/autonomy-vs-alignment.png)
+![autonomy-vs-alignment](images/autonomy-vs-alignment.png)
 
 ## Optimize for asynchronous collaboration
 
@@ -205,9 +205,9 @@ Robots are our friends. <!-- .element: class="fragment" data-fragment-index="1" 
 Note:
 Example - Formcell from Formlabs
 
-![probot-page](/images/probot-page.png)
+![probot-page](images/probot-page.png)
 
-![sentiment-bot-plugin](/images/sentiment-bot-plugin.png)
+![sentiment-bot-plugin](images/sentiment-bot-plugin.png)
 
 # Distill the purest elements of collaboration
 
